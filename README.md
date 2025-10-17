@@ -278,15 +278,3 @@ Specify a license (e.g., MIT). Example:
 ```
 MIT License — see LICENSE file for details.
 ```
-
----
-
-## Final Notes
-
-* Copy this `README.md` into your repository and replace contact & repo placeholders.
-* Include the screenshot images (already referenced above) in the repo root for best recruiter engagement.
-* If you want, I can also generate:
-
-  * a ready `package.json` tuned to this template,
-  * a sample Express API (`server.js`) with basic course/enrollment endpoints and JWT auth, or
-  * a GitHub Actions workflow ready to paste into `.github/workflows/`.
